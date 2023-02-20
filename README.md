@@ -1,7 +1,6 @@
-# Sukhpreet kaur
+# Introduction
 
-## 2229019
-
-### Coding 
-
-# Web designing
+Sukhpreet kaur
+2229019
+Coding 
+Web designing
